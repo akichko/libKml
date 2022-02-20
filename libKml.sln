@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libKml", "libKml\libKml.csproj", "{8E089F53-AE88-4C09-B6CE-6A11EC825A8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libKml", "libKml\libKml.csproj", "{8E089F53-AE88-4C09-B6CE-6A11EC825A8D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libGIS", "..\libGis\libGis\libGIS.csproj", "{31C28DB1-1AB9-4688-909D-D7A082DA8F00}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libKmlTests", "libKmlTests\libKmlTests.csproj", "{DADE1EE5-40D6-4F77-8ADD-453897501D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libKmlTests", "libKmlTests\libKmlTests.csproj", "{DADE1EE5-40D6-4F77-8ADD-453897501D88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{8E089F53-AE88-4C09-B6CE-6A11EC825A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E089F53-AE88-4C09-B6CE-6A11EC825A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E089F53-AE88-4C09-B6CE-6A11EC825A8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31C28DB1-1AB9-4688-909D-D7A082DA8F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31C28DB1-1AB9-4688-909D-D7A082DA8F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31C28DB1-1AB9-4688-909D-D7A082DA8F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31C28DB1-1AB9-4688-909D-D7A082DA8F00}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DADE1EE5-40D6-4F77-8ADD-453897501D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DADE1EE5-40D6-4F77-8ADD-453897501D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DADE1EE5-40D6-4F77-8ADD-453897501D88}.Release|Any CPU.ActiveCfg = Release|Any CPU

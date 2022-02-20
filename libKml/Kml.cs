@@ -24,7 +24,6 @@ SOFTWARE.
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Akichko.libGis;
 using System.IO;
 using System.Xml;
 using System.Linq;
